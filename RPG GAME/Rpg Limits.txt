@@ -1,0 +1,3 @@
+Rpg Game Boundaries/limits:
+ 1. No magic, only physical/medieval attack. (Is range an option?)
+ 2. Usable Stats: Health/Vitality, strength, defense?, levels, xp bar?, 
